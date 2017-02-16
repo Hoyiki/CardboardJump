@@ -1,5 +1,24 @@
-# Portable-VR-ITPCamp2016
+Cardboard Jump
 
-Example code for the workshop about VR, Unity and Cardboard at ITP Camp 2016
+First project for Alternate Realities 2017 at NYU Abu Dhabi. 
 
-Google slides can be found [here](https://docs.google.com/presentation/d/1CRrzE5XLTNjh2PGz-WguwEv7PV_DGve1HdkQy8xsVWA/edit#slide=id.g1357a8fa16_0_27).
+-------------------------------------------------------------
+
+"Once upon a time you dressed so fine
+You threw the bums a dime in your prime, didn't you ?
+People'd call, say, "Beware doll, you're bound to fall."
+You thought they were all kiddin' you
+You used to laugh about
+Everybody that was hangin' out
+Now you don't talk so loud
+Now you don't seem so proud
+About having to be scrounging for your next meal.
+
+How does it feel?
+How does it feel
+To be without a home
+Like a complete unknown
+Like a rolling stone ?" 
+
+- Like a Rolling Stone 
+
